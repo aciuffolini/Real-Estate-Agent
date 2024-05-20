@@ -1,0 +1,7 @@
+"Pillow" 
+"pydantic" 
+"requests" 
+"transformers" 
+"annoy" 
+"openai" 
+"gradio" 
